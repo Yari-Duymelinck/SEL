@@ -50,6 +50,10 @@ Dankzij deze opdracht hebben we geleerd hoe we installaties via de command line 
 
 Als ik opnieuw zou moeten beginnen, zou ik eerst meer tijd besteden aan het verkennen van de basiscommando's en de structuur van PowerShell. Dit zou het leerproces soepeler maken en de drempel verlagen om complexere taken uit te voeren.
 
+> bvoet
+
+testetstesetset
+
 Wat was moeilijk? Wat was eenvoudig? Wat hebben jullie geleerd van de opdracht? Wat zouden jullie anders doen als jullie het opnieuw moesten doen?
 
 Als jullie nog andere opmerkingen hebben over de opdracht hebben, voel je vrij om ze te delen.
