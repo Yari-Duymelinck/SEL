@@ -54,10 +54,9 @@ Als ik opnieuw zou moeten beginnen, zou ik eerst meer tijd besteden aan het verk
 
 > DuponJarne
 
-Aangezien ik mijn voorgaande jaren reeds een basis van Powershell heb gekregen, kon ik snel aan deze taak beginnen zonder alles eerst uit te moeten zoeken. In deze opdracht hebben we gewerkt met Winget Package Manager en zo hebben we een basis gekregen over het beheren van computersystemen op grote schaal (a.d.h.v scripts). We hebben geleerd eenvoudige scripts en commando's uit te voeren op onze computer die we later nog vaker nodig zullen moeten hebben. 
+Aangezien ik in voorgaande jaren al een basis van PowerShell heb geleerd, kon ik snel aan deze taak beginnen zonder alles opnieuw uit te moeten zoeken. In deze opdracht hebben we gewerkt met de WinGet Package Manager, waarmee we een basis hebben gelegd voor het beheren van computersystemen op grote schaal (via scripts). We hebben geleerd om eenvoudige scripts en commando's uit te voeren op onze computer, wat we in de toekomst vaker zullen moeten toepassen.
 
-Als ik deze taak opnieuw zou moeten maken, zou ik meer tijd besteden aan het tussendoor opzoeken van commando's. Aangezien ik dit nu niet deed, zorgde dit voor ploblemen bij mijn cheatsheet omdat ik alles nog moest opzoeken en terugvinden in het document. Dit kan me veel tijd besparen bij toekomstige taken. 
-
+Als ik deze taak opnieuw zou moeten maken, zou ik meer tijd besteden aan het tussendoor opzoeken van commando’s. Omdat ik dit nu niet deed, zorgde dit voor problemen bij het maken van mijn cheatsheet, aangezien ik alles nog moest opzoeken en terugvinden in het document. Door dit wel te doen, kan ik veel tijd besparen bij toekomstige taken.
 
 
 Wat was moeilijk? Wat was eenvoudig? Wat hebben jullie geleerd van de opdracht? Wat zouden jullie anders doen als jullie het opnieuw moesten doen?
