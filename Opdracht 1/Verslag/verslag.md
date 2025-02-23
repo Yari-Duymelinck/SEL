@@ -52,6 +52,7 @@ Als ik opnieuw zou moeten beginnen, zou ik eerst meer tijd besteden aan het verk
 
 > bvoet
 
+> DuponJarne
 testetstesetset
 
 Wat was moeilijk? Wat was eenvoudig? Wat hebben jullie geleerd van de opdracht? Wat zouden jullie anders doen als jullie het opnieuw moesten doen?
