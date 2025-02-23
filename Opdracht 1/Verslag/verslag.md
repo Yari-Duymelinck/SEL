@@ -42,11 +42,23 @@ Geen problemen ondervonden.
 6) Goed voorbereiden en kunnen uitleggen!
 
 ## Reflecties
+> Aliaksandra
+
+Het was lastig om met de PowerShell-terminal aan de slag te gaan, omdat deze nauwelijks wordt gebruikt. In het begin voelde het wat onwennig, maar al snel werd duidelijk dat PowerShell eigenlijk eenvoudig te beheren is. Dit komt mede door de speciale editor Administrator PowerShell, die een overzichtelijke en gebruiksvriendelijke interface biedt.
+
+Dankzij deze opdracht hebben we geleerd hoe we installaties via de command line kunnen beheren en eenvoudige scripts kunnen schrijven. 
+
+Als ik opnieuw zou moeten beginnen, zou ik eerst meer tijd besteden aan het verkennen van de basiscommando's en de structuur van PowerShell. Dit zou het leerproces soepeler maken en de drempel verlagen om complexere taken uit te voeren.
 
 Wat was moeilijk? Wat was eenvoudig? Wat hebben jullie geleerd van de opdracht? Wat zouden jullie anders doen als jullie het opnieuw moesten doen?
 
 Als jullie nog andere opmerkingen hebben over de opdracht hebben, voel je vrij om ze te delen.
 
 ## Bronnen
+[Markdown guide](https://www.markdownguide.org/basic-syntax/)
 
-Maak een lijst van alle bronnen die jullie hebben gebruikt tijdens het uitvoeren van de opdracht: boeken, handleidingen, HOWTO's, blog posts, enz.
+### Windows
+
+1. [Winget reposetories](https://winget.run)
+2. [Winget how to, guide](https://www.petergirnus.com/blog/how-to-use-windows-package-manager-winget)
+
