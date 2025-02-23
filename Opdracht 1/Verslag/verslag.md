@@ -58,7 +58,7 @@ Aangezien ik mijn voorgaande jaren reeds een basis van Powershell heb gekregen, 
 
 Als ik deze taak opnieuw zou moeten maken, zou ik meer tijd besteden aan het tussendoor opzoeken van commando's. Aangezien ik dit nu niet deed, zorgde dit voor ploblemen bij mijn cheatsheet omdat ik alles nog moest opzoeken en terugvinden in het document. Dit kan me veel tijd besparen bij toekomstige taken. 
 
-testetstesetset
+
 
 Wat was moeilijk? Wat was eenvoudig? Wat hebben jullie geleerd van de opdracht? Wat zouden jullie anders doen als jullie het opnieuw moesten doen?
 
