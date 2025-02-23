@@ -54,7 +54,7 @@ Als ik opnieuw zou moeten beginnen, zou ik eerst meer tijd besteden aan het verk
 
 > DuponJarne
 
-Aangezien ik in voorgaande jaren al een basis van PowerShell heb geleerd, kon ik snel aan deze taak beginnen zonder alles opnieuw uit te moeten zoeken. In deze opdracht hebben we gewerkt met de WinGet Package Manager, waarmee we een basis hebben gelegd voor het beheren van computersystemen op grote schaal (via scripts). We hebben geleerd om eenvoudige scripts en commando's uit te voeren op onze computer, wat we in de toekomst vaker zullen moeten toepassen.
+Aangezien ik in voorgaande jaren al een basis van PowerShell heb geleerd, kon ik snel aan deze taak beginnen zonder alles opnieuw uit te moeten zoeken. In deze opdracht hebben we gewerkt met de WinGet Package Manager, waarmee we een basis kregen voor het beheren van computersystemen op grote schaal (a.d.h.v scripts). We hebben geleerd om eenvoudige scripts en commando's uit te voeren op onze computer, wat we in de toekomst vaker zullen moeten doen.
 
 Als ik deze taak opnieuw zou moeten maken, zou ik meer tijd besteden aan het tussendoor opzoeken van commando’s. Omdat ik dit nu niet deed, zorgde dit voor problemen bij het maken van mijn cheatsheet, aangezien ik alles nog moest opzoeken en terugvinden in het document. Door dit wel te doen, kan ik veel tijd besparen bij toekomstige taken.
 
