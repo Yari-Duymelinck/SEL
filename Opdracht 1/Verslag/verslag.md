@@ -62,3 +62,6 @@ Als jullie nog andere opmerkingen hebben over de opdracht hebben, voel je vrij o
 1. [Winget reposetories](https://winget.run)
 2. [Winget how to, guide](https://www.petergirnus.com/blog/how-to-use-windows-package-manager-winget)
 
+
+
+
