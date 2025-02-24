@@ -10,3 +10,4 @@
 | Via de console een package opzoeken                                                                         | `winget search [[-q] <query>] [<options>]`                               |
 | Alle packages die nu geïnstalleerd zijn bijwerken tot de laatste versie.                                    | `winget upgrade -all`  |
 | Een geïnstalleerd pakket verwijderen                                                                        | `winget uninstall [[-q] <query>] [<options>]`                             |
+| Digitale gehandtekende scripts uitschakelen voor de huidige sessie                       | `Set-ExecutionPolicy Bypass -Scope Process`  |
