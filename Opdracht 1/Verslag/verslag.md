@@ -67,7 +67,7 @@ Ik heb de opdracht standaard gevolgd van begin tot einde, ik heb echter niet eer
 
 > Alex Grahovac
 
-De opdracht was in het begin wat verwarrend maar eens ik mijn weg had gevonden verliep alles vlot. Ik heb al wat ervaring met de shell dus dat heeft mij zeker geholpen, alleen heb ik nog nooit eerder software via de shell geïnstalleerd. Tot mijn verbazing vond ik het wel handig en efficiënt. Deze opdracht heeft me doen inzien hoe nuttig package managers kunnen zijn en ik ben ook blij dat ik eindelijk heb leren werken met Markdown
+De opdracht was in het begin wat verwarrend, maar eens ik mijn weg had gevonden, verliep alles vlot. Ik heb al wat ervaring met de shell, dus dat heeft mij zeker geholpen. Alleen heb ik nog nooit eerder software via de shell geïnstalleerd. Tot mijn verbazing vond ik het wel handig en efficiënt. Deze opdracht heeft me doen inzien hoe nuttig package managers kunnen zijn, en ik ben ook blij dat ik eindelijk heb leren werken met Markdown.
 
 ## Bronnen
 [Markdown guide](https://www.markdownguide.org/basic-syntax/)
