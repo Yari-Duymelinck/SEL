@@ -58,7 +58,7 @@ Als ik de taak opnieuw zou moeten doen zou ik op dezelfde manier werken want dat
 
 > DuponJarne
 
-Aangezien ik in voorgaande jaren al een basis van PowerShell heb geleerd, kon ik snel aan deze taak beginnen zonder alles opnieuw uit te moeten zoeken. In deze opdracht hebben we gewerkt met de WinGet Package Manager, waarmee we een basis kregen voor het beheren van computersystemen op grote schaal (a.d.h.v scripts). We hebben geleerd om eenvoudige scripts en commando's uit te voeren op onze computer, wat we in de toekomst vaker zullen moeten doen.
+Omdat ik in voorgaande jaren al een basis van PowerShell heb gekregen, kon ik snel aan deze taak beginnen zonder alles opnieuw uit te moeten zoeken. In deze opdracht hebben we gewerkt met de Winget Package Manager, hiermee leerden we een basis van het beheren van computersystemen via scripts. We hebben geleerd om eenvoudige scripts en commando's uit te voeren op onze computer, wat we in de toekomst vaker zullen moeten doen.
 
 Als ik deze taak opnieuw zou moeten maken, zou ik meer tijd besteden aan het tussendoor opzoeken van commando’s. Omdat ik dit nu niet deed, zorgde dit voor problemen bij het maken van mijn cheatsheet, aangezien ik alles nog moest opzoeken en terugvinden in het document. Door dit wel te doen, kan ik veel tijd besparen bij toekomstige taken.
 
