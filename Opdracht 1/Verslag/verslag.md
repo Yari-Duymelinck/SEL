@@ -1,13 +1,12 @@
 # Verslag: SUBJECT
 
-> Naam verslaggever: VOORNAAM FAMILIENAAM
+> Naam verslaggever: Thomas Parmentier
 
 ## Beschrijving
 
-In deze opdracht werd er kennis gemaakt met de package manager op verschillende besturingssystemen. Met zo'n package manager moeten we dan programma's kunnen installeren. Er moest ook een klein script geschreven worden.
+In deze opdracht werd er kennis gemaakt met de package manager op verschillende besturingssystemen. Met zo'n package manager moeten we dan programma's kunnen installeren en andere basistaken kunnen uitvoeren. Er moest ook een klein script geschreven worden. Als laatst was er een stukje over Markdown language dat we moeten kunnen.
 
 ## Antwoorden op de vragen in de opdracht
-
 
 ### 1: De Bash-prompt toont de map/directory waar we ons nu bevinden. Wat is de naam van de directory waar je in terecht komt als je een Terminal-venster opent?
 Als je de terminal opent kom je direct terecht in de home map van de gebruiker waarmee je bent ingelogd.
@@ -62,10 +61,8 @@ Omdat ik in voorgaande jaren al een basis van PowerShell heb gekregen, kon ik sn
 
 Als ik deze taak opnieuw zou moeten maken, zou ik meer tijd besteden aan het tussendoor opzoeken van commando’s. Omdat ik dit nu niet deed, zorgde dit voor problemen bij het maken van mijn cheatsheet, aangezien ik alles nog moest opzoeken en terugvinden in het document. Door dit wel te doen, kan ik veel tijd besparen bij toekomstige taken.
 
-
-Wat was moeilijk? Wat was eenvoudig? Wat hebben jullie geleerd van de opdracht? Wat zouden jullie anders doen als jullie het opnieuw moesten doen?
-
-Als jullie nog andere opmerkingen hebben over de opdracht hebben, voel je vrij om ze te delen.
+> Yari Duymelinck
+Ik heb de opdracht standaard gevolgd van begin tot einde, ik heb echter niet eerst alles eerst snel overlopen. Omdat ik dus eerst zag dat alles in Linux was heb ik alles op mijn Linux VM gedaan. Want het was pas nadat ik klaar was dat ik realiseerde dat dezelfde opdracht ook erbij stond maar dan voor Windows & Mac. Dat terzijde was alles vlot gegaan en heb ik minimale problemen met het maken van deze opdracht.
 
 ## Bronnen
 [Markdown guide](https://www.markdownguide.org/basic-syntax/)
