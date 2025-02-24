@@ -62,7 +62,12 @@ Omdat ik in voorgaande jaren al een basis van PowerShell heb gekregen, kon ik sn
 Als ik deze taak opnieuw zou moeten maken, zou ik meer tijd besteden aan het tussendoor opzoeken van commando’s. Omdat ik dit nu niet deed, zorgde dit voor problemen bij het maken van mijn cheatsheet, aangezien ik alles nog moest opzoeken en terugvinden in het document. Door dit wel te doen, kan ik veel tijd besparen bij toekomstige taken.
 
 > Yari Duymelinck
+
 Ik heb de opdracht standaard gevolgd van begin tot einde, ik heb echter niet eerst alles eerst snel overlopen. Omdat ik dus eerst zag dat alles in Linux was heb ik alles op mijn Linux VM gedaan. Want het was pas nadat ik klaar was dat ik realiseerde dat dezelfde opdracht ook erbij stond maar dan voor Windows & Mac. Dat terzijde was alles vlot gegaan en heb ik minimale problemen met het maken van deze opdracht.
+
+> Alex Grahovac
+
+De opdracht was in het begin wat verwarrend maar eens ik mijn weg had gevonden verliep alles vlot. Ik heb al wat ervaring met de shell dus dat heeft mij zeker geholpen, alleen heb ik nog nooit eerder software via de shell geïnstalleerd. Tot mijn verbazing vond ik het wel handig en efficiënt. Deze opdracht heeft me doen inzien hoe nuttig package managers kunnen zijn en ik ben ook blij dat ik eindelijk heb leren werken met Markdown
 
 ## Bronnen
 [Markdown guide](https://www.markdownguide.org/basic-syntax/)
