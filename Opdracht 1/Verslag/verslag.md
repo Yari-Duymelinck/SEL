@@ -52,6 +52,8 @@ Als ik opnieuw zou moeten beginnen, zou ik eerst meer tijd besteden aan het verk
 
 > bvoet
 
+Desondanks dat ik PowerShell in het middelbaar al een jaartje gezien had wat was het wel terug even wennen om terug efficiënt te kunnen navigeren.
+
 > DuponJarne
 
 Aangezien ik in voorgaande jaren al een basis van PowerShell heb geleerd, kon ik snel aan deze taak beginnen zonder alles opnieuw uit te moeten zoeken. In deze opdracht hebben we gewerkt met de WinGet Package Manager, waarmee we een basis kregen voor het beheren van computersystemen op grote schaal (a.d.h.v scripts). We hebben geleerd om eenvoudige scripts en commando's uit te voeren op onze computer, wat we in de toekomst vaker zullen moeten doen.
@@ -70,6 +72,7 @@ Als jullie nog andere opmerkingen hebben over de opdracht hebben, voel je vrij o
 
 1. [Winget reposetories](https://winget.run)
 2. [Winget how to, guide](https://www.petergirnus.com/blog/how-to-use-windows-package-manager-winget)
+3. [Windows Package Manager](https://learn.microsoft.com/en-us/windows/package-manager/)
 
 
 
