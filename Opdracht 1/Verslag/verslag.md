@@ -50,9 +50,11 @@ Dankzij deze opdracht hebben we geleerd hoe we installaties via de command line 
 
 Als ik opnieuw zou moeten beginnen, zou ik eerst meer tijd besteden aan het verkennen van de basiscommando's en de structuur van PowerShell. Dit zou het leerproces soepeler maken en de drempel verlagen om complexere taken uit te voeren.
 
-> bvoet
+> Voet Ben
 
-Desondanks dat ik PowerShell in het middelbaar al een jaartje gezien had wat was het wel terug even wennen om terug efficiënt te kunnen navigeren.
+Desondanks dat ik PowerShell in het middelbaar al een jaartje gezien had wat was het wel terug even wennen om terug efficiënt te kunnen navigeren. Ik had nog nooit van het bestaan van Winget gehoord maar nu dat ik de werking volledig begrijp lijkt het me een handige tool om zo alle software die van daar haalt makkelijk centraal & efficiënt (want enkel commando's i.d.p.v. naar websites zoeken) te beheren 
+
+Als ik de taak opnieuw zou moeten doen zou ik op dezelfde manier werken want dat verliep wel vlot. Alles aandachtig lezen en commandos meevolgen in de ISE...
 
 > DuponJarne
 
